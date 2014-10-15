@@ -1,3 +1,21 @@
+# BIOMD0000000317: shenorr02
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000317.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000317.git@20140916`
+
+
+# Model Notes
 
 
 This is the single input module, SIM, described in the article:  
@@ -28,4 +46,5 @@ define the basic computational elements of other biological networks.
 
 This model reproduces the SIM timecourse presented in Figure 2b. All species
 and parameters in the model are dimensionless.
+
 
